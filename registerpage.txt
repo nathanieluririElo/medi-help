@@ -1,0 +1,48 @@
+
+**Patient Information Form**
+
+**Personal Information:**
+- Name:
+- Date of Birth:
+- Gender:
+- Address:
+- Phone Number:
+- Email:
+
+**Medical History:**
+- **Past Medical History:**
+  - Have you ever received medical care? If so, please describe the issues addressed:
+  - Were medical care and treatment continuous or episodic?
+  - Have you undergone any procedures, X-Rays, CAT scans, MRIs, or other special testing? If yes, please specify:
+  - Have you ever been hospitalized? If yes, for what reason(s)?
+- **Past Surgical History:**
+  - Have you ever undergone surgery? If yes, please provide details including the year, name of operation, and any complications:
+
+
+- **Medications:**
+  - Do you take any prescription medicines? If yes, please specify the name, dose, frequency, and reason for treatment:
+  - Do you take over-the-counter or non-traditional medications? If yes, please specify:
+- **Allergies/Reactions:**
+  - Have you experienced any adverse reactions to medications? If yes, please describe the reaction(s) and medication(s) involved:
+
+
+**Lifestyle:**
+- **Smoking History:**
+  - Have you ever smoked cigarettes? If yes, please specify the number of packs per day and for how many years. If you quit, when did you quit?
+- **Alcohol:**
+  - Do you drink alcohol? If yes, please specify the amount per day and type of drink. If not daily, specify weekly or monthly consumption.
+- **Other Drug Use:**
+  - Have you ever used drugs, past or present? If yes, please specify.
+- **Sexual Activity:**
+  - Are you sexually active? If yes, please provide details regarding sexual practices, use of protection, and any relevant history.
+- **Obstetric History (if applicable):**
+  - Have you ever been pregnant? If yes, please provide details regarding outcomes.
+- **Family History:**
+  - Please provide details of heritable illnesses among first or second-degree relatives, including specific conditions and ages of onset.
+- **Work/Hobbies/Other:**
+  - What kind of work do you do? Any hobbies or physical activities? Any significant exposures or history of trauma?
+
+  
+- **Military Service:**
+  - Have you served in the armed forces? If yes, please provide details including any physical or mental health issues related to your service.
+

@@ -1,0 +1,2 @@
+0 Normal tissue
+1 Cancer tissue

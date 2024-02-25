@@ -1,0 +1,13 @@
+streamlit
+requests
+pymongo
+numpy
+bcrypt
+pymodm
+bson
+transformers
+torch
+tensorflow
+python-dotenv
+
+pymongo[srv]
